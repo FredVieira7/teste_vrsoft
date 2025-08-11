@@ -1,0 +1,25 @@
+# Node / Angular
+node_modules/
+dist/
+build/
+.angular/
+coverage/
+out-tsc/
+.angular/cache/
+
+# Logs
+*.log
+logs/
+
+# Env
+.env
+.env.*.local
+!.env.example
+
+# TS
+*.tsbuildinfo
+
+# IDE/SO
+.vscode/
+.DS_Store
+Thumbs.db
